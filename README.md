@@ -39,4 +39,3 @@ Response:
 This API is **not for production** use—its main purpose is for testing and experimenting with eCommerce features.
 ```
 
-This should give a concise overview of your project and help users get started quickly. Let me know if you need more details!
