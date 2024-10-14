@@ -20,16 +20,6 @@ E-Shop API is an experimental eCommerce API designed for developers to test and 
 POST /generate-api-key
 ```
 
-Example:
-```javascript
-fetch("https://react-e-shop-silk.vercel.app/generate-api-key", {
-    method: "POST"
-})
-.then(response => response.json())
-.then(data => console.log(data))
-.catch(error => console.error("Error:", error));
-```
-
 Response:
 ```json
 {
