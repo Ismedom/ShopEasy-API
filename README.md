@@ -1,6 +1,5 @@
 
 
-```markdown
 # E-Shop API (Testing Version)
 
 E-Shop API is an experimental eCommerce API designed for developers to test and experiment with basic shop features. No sign-up is required, and the API is perfect for trial runs, mockups, and quick demos.
