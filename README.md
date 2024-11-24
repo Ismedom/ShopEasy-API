@@ -16,7 +16,7 @@ E-Shop API is an experimental eCommerce API designed for developers to test and 
 ## Quick Start
 
 ### Generate an API Key
-```bash
+```
 POST /generate-api-key
 ```
 
